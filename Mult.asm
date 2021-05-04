@@ -1,4 +1,3 @@
-// Mohammed Alassiri
 // I validated the hack program with the script and the output file = cmp file. 
 // I also tested it manually to make sure it works fine.
 
