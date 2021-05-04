@@ -8,7 +8,7 @@ M=0 // starts r2 as 0, because it adds value of r1 to it r0 times.
 @0
 D=M
 @END // go to end if value = 0 
-D;JEQ // JLe was broken, JEQ was the only option that worked, it would sometimes give a value below 0???
+D;JEQ 
 
 @1
 D=M 
